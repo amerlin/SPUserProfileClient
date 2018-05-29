@@ -1,3 +1,3 @@
 # SPUserProfileClient
 
-A simple Javascript Sharepoint User Profile REST api client
+A simple demo to get the userprofile of a sharepoint user
